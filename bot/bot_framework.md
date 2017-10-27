@@ -4,21 +4,21 @@ __bot is ...__
 :x:bot ≠ AI  
 :o:bot ≒ batch
 
-bot framework language  
+## bot framework language  
 - node.js  
 - C#  
 
-Uses the following azure service  
+## Uses the following azure service  
 - azure cosmos DB  
 - azure search  
 - azure webapp  
 - cognitive service(luis,text analytics API)  
 
-pros  
+## pros  
 - NLP(recognation) is good
 - webapp is easy to use
 
-cons
+## cons
 - search is expensive
 - sentiment analysis(ja-jp) is not available.
 
